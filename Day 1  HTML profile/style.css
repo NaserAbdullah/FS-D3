@@ -1,0 +1,38 @@
+.personal_photo {
+    width: 172px;
+    height: 172px;
+}
+
+.section-1-style {
+    background-color: antiquewhite;
+    color: black;
+  }
+
+.section-2-style {
+    background-color:azure;
+    color: black;
+  }
+
+.section-3-style {
+    background-color: black;
+    align-items: center;
+    align-content: center;
+    font-size: large;
+    padding-left: 10px;
+}
+
+.fa-linkedin {
+    font-size: 20
+px;
+    color: rgb(0, 149, 207);
+  
+   }
+
+.fa-envelope {
+    color: white;
+    font-size: 20 px;
+}
+
+.section-p-style {
+    text-align:justify ;
+}
